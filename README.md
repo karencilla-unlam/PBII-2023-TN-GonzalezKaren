@@ -1,7 +1,8 @@
 # PBII-2023-TN-GonzalezKaren
 Segundo Parcial 1C 2023 - PB2 - UNLaM 
 
-Happy Birthday
+## Happy Birthday 
+
 Vamos a llevar a cabo un emprendimiento a partir del cual se puedan organizar eventos de distinto tipo, de forma tal que se simplifique toda la organización automatizando la misma en su máxima expresión.
 Nuestra intención es generar una red de personas, los cuales pueden tomar distintos roles según si es organizador, agasajado o invitado.
     1. Los usuarios se van incorporando a la plataforma de planificación de eventos, siendo su eMail la manera de identifica unívocamente a cada uno.
